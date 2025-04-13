@@ -35,6 +35,6 @@ All values can be adjusted in the Unity Inspector.
 
 ## Example Screenshots
 
-```md
-![Example Dungeon 1](screenshots/dungeon1.png)
+![Example Dungeon 1](screenshots/dungeon1.png)  
 ![Example Dungeon 2](screenshots/dungeon2.png)
+
