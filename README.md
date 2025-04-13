@@ -35,6 +35,8 @@ All values can be adjusted in the Unity Inspector.
 
 ## Example Screenshots
 
-![Example Dungeon 1](screenshots/dungeon1.png)  
-![Example Dungeon 2](screenshots/dungeon2.png)
-
+<div align="center">
+  <img src="screenshots/dungeon1.png" alt="Example Dungeon 1" width="400" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/dungeon2.png" alt="Example Dungeon 2" width="400" />
+</div>
