@@ -440,10 +440,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 56493a9761ee3784aae1dfc2dd0e7818, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Width: 25
-  Height: 25
-  Rows: 5
-  Columns: 5
+  Width: 75
+  Height: 75
   InitialRockPercentage: 0.5
   IterationCount: 3
   RockThreshold: 13
